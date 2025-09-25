@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/22427102/README.md)# RESTful API for managing a library system
+# RESTful API for managing a library system
 RESTful API for managing a library system with two resources: Authors and Books (each book belongs to an author)
 
 ## Features
